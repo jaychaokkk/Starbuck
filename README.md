@@ -20,7 +20,6 @@
   * 对于bogo_5_7_5和discount_20_10_5这两种推送，complete 竟然比 view还多 说明有的人 complete 和推送无关, 属于无效记录。排除无效记录后，对所有推送均有 complete 比 view 少，情况合理。
   
 ## 文件2  Starbucks_Capstone_notebook-01-zh
-* 用到的库 pandas，numpy，math，json, seaborn, matplotlib, tqdm, datetime, pickle
 * 目的：根据用户数据特征，对用户进行分类
   * 对用户进行scale和 PCA处理，找到累计概率超过95%的主成分
   * 采用Kmeans对用户进行分类
