@@ -3,10 +3,10 @@
 ## 文件1 Starbucks_Capstone_notebook-01-zh
 * 目的：读入数据 对数据进行清洗 整合 特征提取
 * 步骤：
-  * 读入3个数据
-    * portfolio.json – 包括推送的 id 和每个推送的元数据（持续时间、种类等等），
-    * profile.json – 每个顾客的人口统计数据，
-    * transcript.json – 交易、收到的推送、查看的推送和完成的推送的记录
+ * 读入3个数据
+  * portfolio.json – 包括推送的 id 和每个推送的元数据（持续时间、种类等等），
+  * profile.json – 每个顾客的人口统计数据，
+  * transcript.json – 交易、收到的推送、查看的推送和完成的推送的记录
 
 
 
